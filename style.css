@@ -130,7 +130,7 @@ body {
 }
 .body-editor-content {
   width: 700px;
-  height: 400px;
+  min-height: 400px;
   background-color: #e1daff;
 }
 .body-editor-content > p {
