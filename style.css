@@ -225,4 +225,7 @@ pre {
     align-items: center;
     gap: 20px;
   }
+  #aboutus {
+    display: none;
+  }
 }
